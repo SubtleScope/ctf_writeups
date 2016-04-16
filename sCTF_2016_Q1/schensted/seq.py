@@ -46,7 +46,7 @@ def get_longest_non_decreasing(lowercase_str):
     print result
 
 if __name__ == '__main__':
-    with open("seq.dat") as file:
+    with open("schensted.dat") as file:
          seqNum = file.read()
 
     seq = list(seqNum)
