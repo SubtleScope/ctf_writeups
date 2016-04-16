@@ -8,10 +8,10 @@
 
 ## Solution
   - $ `strings rev1 | less`
-  - Output:
-    ....
-    fffff.
-    h4x0r!!!H
-    []A\A]A^A_
+  - Output: <br />
+    .... <br />
+    fffff. <br />
+    h4x0r!!!H <br />
+    []A\A]A^A_ <br />
     ....
   - Flag: sctf{h4x0r!!!}
