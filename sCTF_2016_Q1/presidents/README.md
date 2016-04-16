@@ -13,6 +13,8 @@
   - sqlmap
 
 ## Solution
+  - Grab the headers from the web page and drop that in a text file - search.txt
+
   - Solution 1: <br />
     ![Solution1](sqlmap-1.jpg?raw=true "Solution1") <br />
   - Solution 2: <br />

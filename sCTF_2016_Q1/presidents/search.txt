@@ -1,0 +1,17 @@
+POST / HTTP/1.1
+Host: president.sctf.michaelz.xyz
+Connection: keep-alive
+Content-Length: 10
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Origin: http://president.sctf.michaelz.xyz
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+DNT: 1
+Referer: http://president.sctf.michaelz.xyz/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.8
+Cookie: __cfduid=d10c31e3e869d201aa967aab77f0e43781460260726
+
+search=%
