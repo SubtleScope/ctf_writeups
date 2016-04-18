@@ -29,7 +29,7 @@
         * 89011356781923 => 135678 <br />
         * `if character > current_sequence[-1]:` <br />
         * Output: 01235678
-    - The following are not part of the challnege, but wanted to test it anyway
+    - The following are not part of the challenge, but wanted to test it anyway
     - Find the longest decreasing substring (with duplicates)
         * If a character is less than or equal to the previous one <br />
         * 02349985543928 => 9985543 <br />

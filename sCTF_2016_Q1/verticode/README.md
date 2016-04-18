@@ -26,7 +26,7 @@
 
   Given this verticode, read the verticode into text and find the flag.
 
-  Note that the flag will not be in the typical sctf{flag} format, but will be painfully obvious text. Once you find this text, you will submit it in thesctf{text} format. So, if the text you find is adunnaisawesome, you will submit it as sctf{adunnaisawesome}.
+  Note that the flag will not be in the typical sctf{flag} format, but will be painfully obvious text. Once you find this text, you will submit it in the sctf{text} format. So, if the text you find is adunnaisawesome, you will submit it as sctf{adunnaisawesome}.
 
 ## Hint
   You might want to look at imaging libraries
