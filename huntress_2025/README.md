@@ -1,0 +1,80 @@
+# Huntress CTF 2025 Write Ups
+
+The write ups are organized by day and the name of the challenge.
+
+- Day 1
+  - Read The Rules
+  - Technical Support
+  - Spam Test
+  - Cover All Your Bases
+  - Just A Little Bit
+  - QRCeption
+  - RFC 9309
+  -  Verify You Are Human
+-  Day 2
+  - OFA
+  - Spaghetti
+- Day 3
+  - Maximum Sound
+  - SANDY
+- Day 4
+  - ARIKA
+  - Snooze
+- Day 5
+  - Sigma Linter
+- Day 6
+  - Emotional
+- Day 7
+  - Trust Me
+- Day 8
+  - Flag Checker
+- Day 9
+  - Tabby's Date
+- Day 10
+  - For Greatness
+- Day 11
+  - Trashcan
+- Day 12
+  - Angler
+- Day 13
+  - I Forgot
+- Day 14
+  - Beyblade
+- Day 15
+  - Phasing Through Printers
+- Day 16
+  - Threat Actor Support Line
+- Day 17
+  - vx-underground
+- Day 18
+  - Bussing Around
+- Day 19
+  - XMDR
+- Day 20
+  - Darcy
+- Day 21
+  - Follow the Money
+- Day 22
+  - Webshellz
+  - NimCrackMe1
+- Day 23
+  - Rust Tickler
+  - NetSupport
+- Day 24
+  - Lizard.
+- Day 25
+  - My Hawaii Vacation
+- Day 26
+  - Puzzle Pieces Redux
+- Day 27
+  - Follow the Money - The Sequel
+- Day 28
+  - Rust Tickler 2
+  - Telestealer
+- Day 29
+  - Trapped
+- Day 30
+  - Rust Tickler 3
+  - No Limits
+- Day 31
+  - Root Canal
