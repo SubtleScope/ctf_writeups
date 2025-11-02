@@ -1,7 +1,13 @@
+# Prompy
+
+![Read the Rules](Challenge_ReadTheRules.png "Challenge Prompt")
+
 # Solution
 
 - This challenge is the same every year. The flag is located in the HTML of the rules page in a comment.
 - Solve this anyway you'd like. Browser tools are easy or you can use command line with curl/wget and grep for flag.
+
+![Read the Rules Solution](Solution.png)
 
 # Flag
 
