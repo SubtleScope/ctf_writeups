@@ -1,80 +1,83 @@
 # Huntress CTF 2025 Write Ups
 
-The write ups are organized by day and the name of the challenge.
+The write ups are organized by day and the name of the challenge. 
 
-- Day 1
-  - Read The Rules
-  - Technical Support
-  - Spam Test
-  - Cover All Your Bases
-  - Just A Little Bit
-  - QRCeption
-  - RFC 9309
-  -  Verify You Are Human
--  Day 2
-  - OFA
-  - Spaghetti
-- Day 3
-  - Maximum Sound
-  - SANDY
-- Day 4
-  - ARIKA
-  - Snooze
-- Day 5
-  - Sigma Linter
-- Day 6
-  - Emotional
-- Day 7
-  - Trust Me
-- Day 8
-  - Flag Checker
-- Day 9
-  - Tabby's Date
-- Day 10
-  - For Greatness
-- Day 11
-  - Trashcan
-- Day 12
-  - Angler
-- Day 13
-  - I Forgot
-- Day 14
-  - Beyblade
-- Day 15
-  - Phasing Through Printers
-- Day 16
-  - Threat Actor Support Line
-- Day 17
-  - vx-underground
-- Day 18
-  - Bussing Around
-- Day 19
-  - XMDR
-- Day 20
-  - Darcy
-- Day 21
-  - Follow the Money
-- Day 22
-  - Webshellz
-  - NimCrackMe1
-- Day 23
-  - Rust Tickler
-  - NetSupport
-- Day 24
-  - Lizard.
-- Day 25
-  - My Hawaii Vacation
-- Day 26
-  - Puzzle Pieces Redux
-- Day 27
-  - Follow the Money - The Sequel
-- Day 28
-  - Rust Tickler 2
-  - Telestealer
-- Day 29
-  - Trapped
-- Day 30
-  - Rust Tickler 3
-  - No Limits
-- Day 31
-  - Root Canal
+> [!WARNING]  
+> Some of these challenges contain malware that was modified for the CTF. Only analyze the samples in a contained virtual machine that you own and are allowed to use for reviewing these write ups. Some of the code shared in these files may trip antivirus as it contains malicious code. Do not execute this code unless you know what you are doing. This author is not responsible if you damage your system or a system you don't own. 
+
+- [Day 1](/huntress_2025/Day_1/)
+  - [Read The Rules](/huntress_2025/Day_1/Read_The_Rules/Solution.md)
+  - [Technical Support](/huntress_2025/Day1/Technical_Support/Solution.md)
+  - [Spam Test](/huntress_2025/Day1/Spam_Test/Solution.md)
+  - [Cover All Your Bases](/huntress_2025/Day1/Cover_all_Your_Bases/Solution.md)
+  - [Just A Little Bit](/huntress_2025/Day1/Just_A_Little_Bit/Solution.md)
+  - [QRCeption](/huntress_2025/Day1/QRception/Solution.md)
+  - [RFC 9309](/huntress_2025/Day1/RFC_9309/Solution.md)
+  - [Verify You Are Human](/huntress_2025/Day1/Verify_You_Are_Human/Solution.md)
+- [Day 2](/huntress_2025/Day_2/)
+  - [OFA](/huntress_2025/Day_2/OFA/Solution.md)
+  - [Spaghetti](/huntress_2025/Day_2/Spaghetti/Solution.md)
+- [Day 3](/huntress_2025/Day_3/)
+  - [Maximum Sound](/huntress_2025/Day_3/Maximum_Sound/Solution.md)
+  - [SANDY](/huntress_2025/Day_3/SANDY/Solution.md)
+- [Day 4](/huntress_2025/Day_4/)
+  - [ARIKA](/huntress_2025/Day_4/ARIKA/Solution.md)
+  - [Snooze](/huntress_2025/Day_4/Snooze/Solution.md)
+- [Day 5](/huntress_2025/Day_5/)
+  - [Sigma Linter](/huntress_2025/Day_5/Sigma_Linter/Solution.md)
+- [Day 6](/huntress_2025/Day_6/)
+  - [Emotional](/huntress_2025/Day_6/Emotional/Solution.md)
+- [Day 7](/huntress_2025/Day_7/)
+  - [Trust Me](/huntress_2025/Day_7/Trust_Me/Solution.md)
+- [Day 8](/huntress_2025/Day_8/)
+  - [Flag Checker](/huntress_2025/Day_8/Flag_Checker/Solution.md)
+- [Day 9](/huntress_2025/Day_9/)
+  - [Tabby's Date](/huntress_2025/Day_9/Tabbys_Date/Solution.md)
+- [Day 10](/huntress_2025/Day_10/)
+  - [For Greatness](/huntress_2025/Day_10/For_Greatness/Solution.md)
+- [Day 11](/huntress_2025/Day_11/)
+  - [Trashcan](/huntress_2025/Day_7/Trust_Me/Solution.md)
+- [Day 12](/huntress_2025/Day_12/)
+  - [Angler](/huntress_2025/Day_8/Flag_Checker/Solution.md)
+- [Day 13](/huntress_2025/Day_13/)
+  - [I Forgot](/huntress_2025/Day_9/Tabbys_Date/Solution.md)
+- [Day 14](/huntress_2025/Day_14/)
+  - [Beyblade](/huntress_2025/Day_14/Beyblade/Solution.md)
+- [Day 15](/huntress_2025/Day_15/)
+  - [Phasing Through Printers](/huntress_2025/Day_15/Phasing_Through_Printers/Solution.md)
+- [Day 16](/huntress_2025/Day_16/)
+  - [Threat Actor Support Line](/huntress_2025/Day_16/Threat_Actor_Support_Line/Solution.md)
+- [Day 17](/huntress_2025/Day_17/)
+  - [vx-underground](/huntress_2025/Day_17/vx-underground/Solution.md)
+- [Day 18](/huntress_2025/Day_18/)
+  - [Bussing Around](/huntress_2025/Day_18/Bussing_Around/Solution.md)
+- [Day 19](/huntress_2025/Day_19/)
+  - [XMDR](/huntress_2025/Day_19/XMDR/Solution.md)
+- [Day 20](/huntress_2025/Day_20/)
+  - [Darcy](/huntress_2025/Day_20/Darcy/Solution.md)
+- [Day 21](/huntress_2025/Day_21/)
+  - [Follow the Money](/huntress_2025/Day_21/Follow_The_Money/Solution.md)
+- [Day 22](/huntress_2025/Day_22/)
+  - [Webshellz](/huntress_2025/Day_22/Webshellz/Solution.md)
+  - [NimCrackMe1](/huntress_2025/Day_22/NimCrackMe1/Solution.md)
+- [Day 23](/huntress_2025/Day_23/)
+  - [Rust Tickler](/huntress_2025/Day_23/Rust_Tickler/Solution.md)
+  - [NetSupport](/huntress_2025/Day_23/NetSupport/Solution.md)
+- [Day 24](/huntress_2025/Day_24/)
+  - [Lizard.](/huntress_2025/Day_24/Lizard/Solution.md)
+- [Day 25](/huntress_2025/Day_25/)
+  - [My Hawaii Vacation](/huntress_2025/Day_25/My_Hawaii_Vacation/Solution.md)
+- [Day 26](/huntress_2025/Day_26/)
+  - [Puzzle Pieces Redux](/huntress_2025/Day_26/Puzzle_Pieces_Redux/Solution.md)
+- [Day 27](/huntress_2025/Day_27/)
+  - [Follow the Money - The Sequel](/huntress_2025/Day_27/Follow_The_Money_The_Sequel/Solution.md)
+- [Day 28](/huntress_2025/Day_28/)
+  - [Rust Tickler 2](/huntress_2025/Day_28/Rust_Tickler_2/Solution.md)
+  - [Telestealer](/huntress_2025/Day_28/Telestealer/Solution.md)
+- [Day 29](/huntress_2025/Day_29/)
+  - [Trapped](/huntress_2025/Day_29/Trapped/Solution.md)
+- [Day 30](/huntress_2025/Day_30/)
+  - [Rust Tickler 3](/huntress_2025/Day_30/Rust_Tickler_3/Solution.md)
+  - [No Limits](/huntress_2025/Day_30/No_Limits/Solution.md)
+- [Day 31](/huntress_2025/Day_31/)
+  - [Root Canal](/huntress_2025/Day_31/Root_Canal/Solution.md)
