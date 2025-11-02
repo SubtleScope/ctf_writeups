@@ -3,7 +3,7 @@
 The write ups are organized by day and the name of the challenge. 
 
 > [!CAUTION]  
-> Some of these challenges contain malware that was modified for the CTF. Only analyze the samples in a contained virtual machine that you own and are allowed to use for reviewing these write ups. Some of the code shared in these files may trip antivirus as it contains malicious code. Do not execute this code unless you know what you are doing. This author is not responsible if you damage your system or a system you don't own. 
+> Some of these challenges contain malware that was modified for the CTF. Only analyze the samples in a contained virtual machine that you own and are allowed to use for reviewing these write ups. Some of the code shared in these files may trip antivirus as it contains malicious code. Do not execute the malicious code or analyze it unless you know what you are doing. This author is not responsible if you damage your system or a system you don't own. 
 
 - [Day 1](/huntress_2025/Day_01/)
   - [Read The Rules](/huntress_2025/Day_01/Read_The_Rules/Solution.md)
