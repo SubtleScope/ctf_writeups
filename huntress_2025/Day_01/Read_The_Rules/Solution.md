@@ -1,0 +1,14 @@
+# Prompt
+
+![Read the Rules](/huntress_2025/Day_01/Read_The_Rules/Challenge_ReadTheRules.png "Challenge Prompt")
+
+# Solution
+
+- This challenge is the same every year. The flag is located in the HTML of the rules page in a comment.
+- Solve this anyway you'd like. Browser tools are easy or you can use command line with curl/wget and grep for flag.
+
+![Read the Rules Solution](/huntress_2025/Day_01/Read_The_Rules/Solution.png)
+
+# Flag
+
+- flag{bf61aced6e7f9335385a70f33b20d188}
