@@ -1,6 +1,6 @@
 # Prompt
 
-![](/huntress_2025/Day_05/Sigma_Linter/Original_Solution.png "Challenge Prompt")
+![](/huntress_2025/Day_05/Sigma_Linter/Challenge_SigmaLinter.png "Challenge Prompt")
 
 # Solution
 
