@@ -4,7 +4,7 @@
 
 # Solution
 
-- This challenge provides a website that you must attack to get the flag, but after os many attempts it will block you. So instead of attacking the proxied port on port 80, we can nmap it to see if it is hosting the web page on another port. If we do, we will find port 5000 which can be used to bypass the full block of our client. 
+- This challenge provides a website that you must attack to get the flag, but after so many attempts it will block you. So instead of attacking the proxied port on port 80, we can nmap it to see if it is hosting the web page on another port. If we do, we will find port 5000 which can be used to bypass the full block of our client. 
 
 ```bash
 nmap -A --top-ports=250 CHALLENGE_IP

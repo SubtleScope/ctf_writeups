@@ -9,8 +9,8 @@
 ```
 sudo apt install reglookup -y
 
-reglookup beyblade | grep -a flag 			# 1 of 8
-reglookup beyblade | grep -a powershell 		# 4 of 8
+reglookup beyblade | grep -a flag 			        # 1 of 8
+reglookup beyblade | grep -a powershell 		    # 4 of 8
 reglookup ../beyblade/beyblade | grep -a 3of8 		# 3 of 8
 reglookup ../beyblade/beyblade | grep -a 5_of_8 	# 5 of 8
 reglookup ../beyblade/beyblade | grep -a 6/8 		# 6 of 8
