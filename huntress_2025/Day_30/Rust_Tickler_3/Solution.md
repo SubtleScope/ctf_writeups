@@ -10,7 +10,7 @@
 
 ![Table Mapping](/huntress_2025/Day_30/Rust_Tickler_3/Table_Map.png "Table Mapping")
 
-- Working through the code and entering the various values, you can build out a table of the values with some hints to the challenge. Not included in the table is the pointer to the memory address, but it does include the size, seed, and decoded/decrypted string value.
+- Working through the code and entering the various values, you can build out a table of the values with some hints to the challenge. Not included in the table is the pointer to the memory address, but it does include the size, seed, and decoded/decrypted string value. While I did this by hand - modifying the register `r8d` value in IDA for each one - you could have just taken the lookup table and pushed it through Python or something to decrypt/decode the values. 
 
 | Size | Seed (little endian) | Seed (big endian) | String                                               |
 |:-----|:---------------------|:------------------|:-----------------------------------------------------|
@@ -35,7 +35,7 @@
 
 ![Program Input](/huntress_2025/Day_30/Rust_Tickler_3/Program_Input.png "Program Input")
 
-- Noticeably missing, if you solved this, is the 0x1341 in the table, which, if you set r8d to that value, will crash the program. What it does is loads a byte stream that is XOR encoded by the highlighted favorite hash. The size is 0x001452 or 0x521400.
+- Noticeably missing, if you solved this, is the 0x1341 in the table above, which, if you set r8d to that value, will crash the program. What it does is loads a byte stream that is XOR encoded by the highlighted favorite hash. The size is 0x001452 or 0x521400.
 
 ![Entry Size](/huntress_2025/Day_30/Rust_Tickler_3/Table_Entry_Size.png "Entry Size")
 
